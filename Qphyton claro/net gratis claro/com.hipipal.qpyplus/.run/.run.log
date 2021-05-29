@@ -1,0 +1,7 @@
+Bottle v0.13-dev server starting up (using MyWSGIRefServer())...
+Listening on http://127.0.0.1:8080/
+Hit Ctrl-C to quit.
+
+localhost - - [28/Nov/2014 01:08:48] "HEAD / HTTP/1.1" 200 0
+localhost - - [28/Nov/2014 01:08:48] "GET / HTTP/1.1" 200 210
+localhost - - [28/Nov/2014 01:09:43] "GET /__exit HTTP/1.1" 200 0

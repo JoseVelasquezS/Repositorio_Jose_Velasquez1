@@ -1,0 +1,7 @@
+Buenas tardes para el siguiente programa estas seran las instrucciones:
+1. el computador debe tener instalado python 3.8 (si no lo tiene puedes descargarlo aca para tu sistema operativo "https://www.python.org/downloads/")
+2.una vez instalado debes ejecutar el IDE de python(clik izquierdo sobre el documento programaDomingos.py y seleccionar edit with IDE 3.8)
+aca estara todo el codigo fuente y se procedera a compilar seleccionando a tecla f5 o bien con el raton dando clik en RUN 
+3. corre el programa con f5
+4 una vez compilado y ejecutado el programa saldra la cantidad de meses que han empezado un domingo comprendido entre 01/01/1901 hasta 31/12/2000
+5 la respuestas son 171 meses han iniciado un domingo comprendido entre 01/01/1901 hasta 31/12/2000
